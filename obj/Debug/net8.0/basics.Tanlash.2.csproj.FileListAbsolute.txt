@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\basics.Tanlash.2\bin\Debug\net8.0\basics.Tanlash.2.exe
+D:\VSCode (mohirdev)\basics.Tanlash.2\bin\Debug\net8.0\basics.Tanlash.2.deps.json
+D:\VSCode (mohirdev)\basics.Tanlash.2\bin\Debug\net8.0\basics.Tanlash.2.runtimeconfig.json
+D:\VSCode (mohirdev)\basics.Tanlash.2\bin\Debug\net8.0\basics.Tanlash.2.dll
+D:\VSCode (mohirdev)\basics.Tanlash.2\bin\Debug\net8.0\basics.Tanlash.2.pdb
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.AssemblyInfo.cs
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.dll
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\refint\basics.Tanlash.2.dll
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.pdb
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\basics.Tanlash.2.genruntimeconfig.cache
+D:\VSCode (mohirdev)\basics.Tanlash.2\obj\Debug\net8.0\ref\basics.Tanlash.2.dll
